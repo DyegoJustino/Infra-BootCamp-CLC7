@@ -16,6 +16,7 @@ module "vpc" {
     Terraform = "true"
     Environment = "Production"
     OwnerSquad = "Infraestrutura"
+    Nova-Tag = "Exemplo-Modificando-Infra"
   }
 }
 
